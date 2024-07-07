@@ -17,9 +17,9 @@
   <h3> Few words about Me</h3>
   <img align="right" widht="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
   
-- Website Developer (3 Years)
+- Website Developer (4.5 Years)
   
-- Lua Developer (1 Year)
+- Lua Developer (3 Year)
   
 - 5+ Years of programming
 
